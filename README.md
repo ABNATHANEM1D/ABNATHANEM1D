@@ -1,4 +1,4 @@
-![](https://tenor.com/pt-BR/view/ez-gif-150498498117826392)
+![](https://github.com/ABNATHANEM1D/ABNATHANEM1D/blob/main/ez.gif)
 
 ### Boas vindas ao meu perfil 💙💙
 
