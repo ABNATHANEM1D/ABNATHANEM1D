@@ -1,4 +1,3 @@
-![](https://github.com/ABNATHANEM1D/ABNATHANEM1D/blob/main/ez.gif)
 
 # Um pouco sobre mim
 
@@ -16,3 +15,6 @@
 00001124756115sp@al.educacao.sp.gov.br
 
 camargon411@gmail.com
+
+
+![](https://github.com/ABNATHANEM1D/ABNATHANEM1D/blob/main/ez.gif)
