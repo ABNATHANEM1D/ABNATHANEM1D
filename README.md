@@ -1,6 +1,6 @@
-Boas vindas ao meu perfil 💙💙
+##Boas vindas ao meu perfil 💙💙
 
-Meu nome é nome sobrenome
+Meu nome é Nathan Camargo
 
 Estou estudando na Alura
 
