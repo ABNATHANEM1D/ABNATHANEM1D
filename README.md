@@ -1,3 +1,5 @@
+![](https://tenor.com/pt-BR/view/ez-gif-150498498117826392)
+
 ### Boas vindas ao meu perfil 💙💙
 
 Meu nome é Nathan Camargo
