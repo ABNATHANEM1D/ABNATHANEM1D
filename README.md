@@ -1,7 +1,7 @@
 
 # Um pouco sobre mim
 
-* Meu nome é Nathan Camargo
+* Meu nome é ***Nathan Camargo***
 
 * Estou estudando na [Alura](https://cursos.alura.com.br/dashboard)
 
