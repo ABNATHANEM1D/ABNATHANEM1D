@@ -17,4 +17,4 @@
 camargon411@gmail.com
 
 
-![](https://github.com/ABNATHANEM1D/ABNATHANEM1D/blob/main/ez.gif)
+<img src="https://github.com/ABNATHANEM1D/ABNATHANEM1D/blob/main/ez.gif" width="385px" align="center">
